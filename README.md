@@ -8,7 +8,6 @@ I love writing software and building cool things with code. I am always learning
 
 *   🌍  I'm based in Meridian, Idaho
 *   ✉️  You can contact me at [austinklein34@gmail.com](mailto:austinklein34@gmail.com)
-*   🧠  I'm learning C# and .NET
 
 ### Skills 
 <p align="left">
